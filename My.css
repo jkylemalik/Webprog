@@ -3,7 +3,7 @@
 
 .row {
 	height:800px;
-	background-color: #2c3e50;
+	background-color: grey;
 	width:900px;
 	margin-left:200px;
 }
@@ -90,32 +90,13 @@ ul {
 	box-shadow:1px 1px 5px rgba(0,0,0,0.5),
 			   0px 0px 0px 1px rgba(0,0,0,0.1);
 }
-.button3 {
-	font-weight:bold;
-	position:absolute;
-	margin-top:-50px;
-	margin-left: 850px;
-	-webkit-transition: all 0.5s;
-	-webkit-border-radius: 5px;
-	line-height: 50px;
-	color:#2c3e50;
-	background:#ecf0f1;
-	width:200px;
-	text-align:center;
-	box-shadow:1px 1px 5px rgba(0,0,0,0.5),
-			   0px 0px 0px 1px rgba(0,0,0,0.1);
-}
+
 .button1:hover {
 	color:#ecf0f1;
 	background:#2c3e50;
 	cursor:pointer;
 }
 .button2:hover {
-	color:#ecf0f1;
-	background:#2c3e50;
-	cursor:pointer;
-}
-.button3:hover {
 	color:#ecf0f1;
 	background:#2c3e50;
 	cursor:pointer;
